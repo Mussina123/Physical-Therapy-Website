@@ -7200,3 +7200,8 @@ img{
 	max-width:100%;
 	padding-left:30px;	
 }
+
+
+#contact-background-img {
+	background-position: top;
+}
