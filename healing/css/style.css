@@ -7207,3 +7207,8 @@ img{
 .main-buttons{
 	color: white; 
 }
+
+#main-doctor {
+	background-position: left;
+	background-size: 50%;
+}
