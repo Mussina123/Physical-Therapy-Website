@@ -1515,7 +1515,7 @@ img{
 	position:relative;
 	font-size:18px;
 	font-weight:500;
-	color:#404040;
+	color:#ffffff;
 	line-height:1.6em;
 	font-family: 'Poppins', sans-serif;
 }
@@ -7199,4 +7199,11 @@ img{
 	display:inline-block;
 	max-width:100%;
 	padding-left:30px;	
+}
+
+
+
+
+.main-buttons{
+	color: white; 
 }
