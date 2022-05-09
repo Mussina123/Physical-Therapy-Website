@@ -1515,7 +1515,7 @@ img{
 	position:relative;
 	font-size:18px;
 	font-weight:500;
-	color:#404040;
+	color:#ffffff;
 	line-height:1.6em;
 	font-family: 'Poppins', sans-serif;
 }
@@ -7202,6 +7202,8 @@ img{
 }
 
 
-#contact-background-img {
-	background-position: top;
+
+
+.main-buttons{
+	color: white; 
 }
