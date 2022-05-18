@@ -498,7 +498,9 @@ ul,li{
 	text-transform:capitalize;
 	font-family: 'Montserrat', sans-serif;
 }
-
+.bro{
+	height: auto !important;
+}
 .btn-style-eleven:hover{
 	background:none;
 	color:#ffffff;
