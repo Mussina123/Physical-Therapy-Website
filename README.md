@@ -2,9 +2,12 @@
 
 I created a website for a Physical Therapy Company: Healing Physical Therapy, to attract the user to become a patient, due to the attractive nature of the colors, pictures, and website layout! 
 
-**Link to project:** https://healing-physical-therapy.netlify.app/
+**Link to project:** https://healing-physical-therapy.netlify.app/ 
 
-![My Image](NASA-API.png)
+</br>
+
+![My Image](Physical-therapy-cover.png)
+
 
 ## How It's Made:
 
